@@ -115,8 +115,8 @@ st.markdown("""
 def load_data():
     """Charge et prépare les données du Wydad"""
     try:
-        # Chemin de base - UTILISEZ VOTRE CHEMIN ICI
-        base_path = r'C:\Users\Dell\Desktop\Wydad_dashbord\data'
+        # Chemin de base (relatif pour compatibilité Cloud & Local)
+        base_path = 'data'
         
         # Liste des fichiers à charger
         files = [
