@@ -135,10 +135,10 @@ st.image("chemin/vers/logo.png", width=150)
 ```
 wydad_app/
 │
-├── wydad_app.py          # Application principale
-├── requirements.txt      # Dépendances Python
+├── wydad_app.py         # Application principale
+├── requirements.txt     # Dépendances Python
 ├── README.md            # Documentation
-└── wydad.csv            # Données (à ajouter)
+└── data                 # Données 
 ```
 
 ## 🎯 Cas d'Usage
@@ -168,4 +168,4 @@ Le **Wydad Athletic Club** (WAC), fondé en 1937 à Casablanca, est l'un des clu
 
 ---
 
-Créé avec ❤️ pour les Winners
+Créé avec ❤️ 
