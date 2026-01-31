@@ -1,0 +1,35 @@
+Name,Taille,Pied,market_value,Position,Age,Dans l'effectif,Matchs,Buts,Passes décisives,Cartons Jaunes,Cartons rouges/jaunes,CartonS rouges,Entré en jeu,Remplacé,PPM,Minutes jouées,Saison
+Ahmed Reda Tagnaouti,"1,92m",droit,1200000.0,Gardien de but,25,46,45.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,"2,24",4110,2021/22
+Aissa Sioudi,"1,88m",,125000.0,Gardien de but,23,44,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"1,50",180,2021/22
+Taha Mourid,-,droit,25000.0,Gardien de but,19,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"0,00",90,2021/22
+Achraf Dari,"1,88m",droit,1200000.0,Défenseur central,22,42,41.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,"2,22",3690,2021/22
+Cheick Comara,"1,84m",gauche,575000.0,Défenseur central,27,36,22.0,1.0,0.0,4.0,0.0,0.0,0.0,2.0,"1,86",1967,2021/22
+Amine Aboulfath,"1,83m",droit,550000.0,Défenseur central,23,13,6.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,"1,50",485,2021/22
+Amine Farhane,"1,89m",droit,250000.0,Défenseur central,23,33,26.0,3.0,0.0,6.0,0.0,0.0,4.0,1.0,"2,19",2156,2021/22
+Mohamed Rahim,"1,80m",droit,150000.0,Défenseur central,26,35,16.0,0.0,2.0,5.0,0.0,0.0,6.0,0.0,"2,44",947,2021/22
+Hamza Asrir,"1,86m",droit,100000.0,Défenseur central,28,24,9.0,0.0,0.0,1.0,0.0,0.0,7.0,0.0,"2,44",245,2021/22
+Yahia Attiyat Allah,"1,76m",gauche,700000.0,Arrière gauche,26,41,40.0,2.0,6.0,5.0,0.0,0.0,3.0,5.0,"2,10",3396,2021/22
+Badr Gaddarine,"1,78m",gauche,225000.0,Arrière gauche,23,7,5.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0,"1,80",203,2021/22
+Ayoub El Amloud,"1,77m",droit,825000.0,Arrière droit,27,38,37.0,1.0,5.0,1.0,0.0,0.0,2.0,4.0,"2,30",3163,2021/22
+Hamza Ait Allal,"1,84m",droit,200000.0,Arrière droit,21,31,10.0,0.0,1.0,2.0,0.0,0.0,3.0,2.0,"1,90",636,2021/22
+Zakaria Kiani,"1,70m",droit,100000.0,Arrière droit,24,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"3,00",82,2021/22
+Yahya Jabrane,"1,87m",droit,1300000.0,Milieu défensif,30,44,41.0,9.0,4.0,13.0,1.0,0.0,2.0,4.0,"2,22",3540,2021/22
+Jalal Daoudi,"1,75m",droit,400000.0,Milieu défensif,32,40,37.0,3.0,5.0,10.0,0.0,2.0,8.0,9.0,"2,24",2620,2021/22
+Anas Serrhat,"1,78m",,175000.0,Milieu défensif,24,44,33.0,1.0,0.0,0.0,0.0,0.0,23.0,4.0,"2,42",1050,2021/22
+Soufiane Karkache,"1,85m",droit,150000.0,Milieu défensif,21,3,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"3,00",7,2021/22
+Hamza Jananallah,-,,0.0,Milieu,20,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"0,00",83,2021/22
+Walid El Karti,"1,84m",droit,1000000.0,Milieu central,26,4,4.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,"3,00",161,2021/22
+Reda Jaadi,"1,83m",gauche,300000.0,Milieu central,26,33,30.0,2.0,2.0,6.0,0.0,0.0,6.0,18.0,"2,23",2061,2021/22
+Abdellah Haimoud,"1,72m",droit,175000.0,Milieu central,20,42,32.0,2.0,1.0,3.0,0.0,0.0,11.0,19.0,"2,28",1753,2021/22
+Ayoub Skouma,"1,73m",droit,125000.0,Milieu central,34,3,3.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,"2,00",93,2021/22
+Aymane El Hassouni,"1,87m",droit,1300000.0,Milieu offensif,26,44,44.0,6.0,7.0,14.0,0.0,0.0,5.0,24.0,"2,09",3475,2021/22
+Zouhair El Moutaraji,"1,82m",droit,300000.0,Ailier gauche,25,30,30.0,8.0,6.0,4.0,0.0,0.0,3.0,23.0,"2,33",2238,2021/22
+Mohamed El Ouardi,"1,72m",droit,25000.0,Ailier gauche,20,18,6.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,"3,00",152,2021/22
+Salaheddine Benyachou,"1,68m",droit,400000.0,Ailier droit,21,41,32.0,2.0,2.0,2.0,0.0,0.0,15.0,15.0,"2,06",1438,2021/22
+Badie Aouk,"1,66m",droit,325000.0,Ailier droit,26,41,28.0,1.0,3.0,1.0,0.0,0.0,17.0,9.0,"2,00",1131,2021/22
+Mounsef Chrachem,"1,77m",droit,75000.0,Ailier droit,22,34,24.0,0.0,3.0,1.0,0.0,0.0,17.0,6.0,"1,92",717,2021/22
+Yazid Faffa,"1,69m",droit,0.0,Ailier droit,20,1,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"0,00",7,2021/22
+Guy Mbenza,"1,84m",droit,1300000.0,Avant-centre,21,41,41.0,20.0,4.0,1.0,0.0,0.0,10.0,19.0,"2,24",2790,2021/22
+Simon Msuva,"1,75m",droit,650000.0,Avant-centre,27,13,12.0,5.0,2.0,0.0,0.0,0.0,1.0,9.0,"2,17",820,2021/22
+Juvhel Tsoumou,"1,91m",droit,300000.0,Avant-centre,30,44,38.0,5.0,2.0,5.0,0.0,1.0,32.0,5.0,"2,08",1053,2021/22
+Chouaib Faidi,-,droit,0.0,Avant-centre,21,5,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,"1,50",17,2021/22

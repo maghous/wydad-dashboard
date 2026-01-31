@@ -1,0 +1,37 @@
+Name,Taille,Pied,market_value,Position,Age,Dans l'effectif,Matchs,Buts,Passes décisives,Cartons Jaunes,Cartons rouges/jaunes,CartonS rouges,Entré en jeu,Remplacé,PPM,Minutes jouées,Saison
+Youssef El Motie,"1,93m",droit,1000000.0,Gardien de but,28,42,41.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,"1,51",3690,2023/24
+Mehdi Maftah,"1,90m",droit,350000.0,Gardien de but,29,43,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"2,50",360,2023/24
+Jamal Harkass,"1,85m",droit,1200000.0,Défenseur central,27,38,35.0,1.0,0.0,3.0,1.0,0.0,1.0,1.0,"1,34",3022,2023/24
+Hamza Regragui,"1,90m",ambidextre,550000.0,Défenseur central,26,17,3.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,"1,00",101,2023/24
+Amine Aboulfath,"1,83m",droit,500000.0,Défenseur central,25,32,32.0,1.0,1.0,6.0,1.0,2.0,3.0,1.0,"1,91",2585,2023/24
+Arsène Zola,"1,83m",gauche,500000.0,Défenseur central,27,17,9.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,"1,44",719,2023/24
+Amine Farhane,"1,89m",droit,450000.0,Défenseur central,25,30,17.0,0.0,1.0,3.0,0.0,0.0,3.0,3.0,"1,65",1241,2023/24
+Yahia Attiyat Allah,"1,76m",gauche,2200000.0,Arrière gauche,28,24,23.0,4.0,3.0,2.0,0.0,0.0,0.0,4.0,"1,83",2035,2023/24
+Ayoub Boucheta,-,gauche,550000.0,Arrière gauche,29,13,8.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,"1,25",502,2023/24
+Badr Gaddarine,"1,78m",gauche,500000.0,Arrière gauche,25,18,14.0,2.0,0.0,1.0,0.0,1.0,3.0,1.0,"1,50",1010,2023/24
+Ilyes Chetti,"1,76m",gauche,325000.0,Arrière gauche,28,33,16.0,0.0,0.0,1.0,1.0,0.0,4.0,5.0,"1,94",925,2023/24
+Ayoub El Amloud,"1,77m",droit,1200000.0,Arrière droit,29,34,33.0,5.0,3.0,2.0,0.0,0.0,0.0,3.0,"1,73",2954,2023/24
+Hicham Ait Brayem,-,droit,50000.0,Arrière droit,26,15,6.0,0.0,0.0,1.0,0.0,1.0,1.0,3.0,"1,33",386,2023/24
+Ismail Gazaoui,-,,10000.0,Arrière droit,25,14,6.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"1,17",460,2023/24
+Yahya Jabrane,"1,87m",droit,1300000.0,Milieu défensif,32,36,34.0,3.0,4.0,11.0,0.0,0.0,1.0,1.0,"1,68",2980,2023/24
+Zakaria Draoui,"1,74m",ambidextre,900000.0,Milieu défensif,29,44,43.0,3.0,0.0,5.0,0.0,0.0,3.0,6.0,"1,60",3653,2023/24
+Anas Serrhat,"1,78m",,450000.0,Milieu défensif,26,42,32.0,1.0,0.0,8.0,0.0,1.0,16.0,5.0,"1,63",1591,2023/24
+Mounir Habach,-,droit,25000.0,Milieu défensif,23,7,4.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,"1,00",92,2023/24
+Oussama Zemraoui,-,gauche,550000.0,Milieu central,21,14,5.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,"1,40",172,2023/24
+Oussama Mahrous,-,,350000.0,Milieu central,28,31,11.0,1.0,0.0,2.0,0.0,0.0,10.0,0.0,"2,09",215,2023/24
+Abdellah Haimoud,"1,72m",droit,300000.0,Milieu central,22,40,28.0,0.0,3.0,5.0,0.0,0.0,9.0,19.0,"1,64",1442,2023/24
+Sidi Bouna Amar,"1,72m",droit,300000.0,Milieu offensif,24,14,12.0,3.0,0.0,1.0,0.0,0.0,2.0,3.0,"1,08",896,2023/24
+Ismail Moutaraji,-,gauche,0.0,Milieu offensif,23,2,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,"0,00",90,2023/24
+Hamdou El Houni,"1,69m",droit,900000.0,Ailier gauche,29,30,27.0,1.0,2.0,2.0,0.0,0.0,9.0,15.0,"1,41",1498,2023/24
+Zouhair El Moutaraji,"1,82m",droit,400000.0,Ailier gauche,27,6,3.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,"2,00",87,2023/24
+Soufyan Ahannach,"1,79m",droit,375000.0,Ailier gauche,27,17,13.0,0.0,2.0,2.0,0.0,0.0,5.0,7.0,"1,92",731,2023/24
+Ismail El Haddad,"1,81m",gauche,300000.0,Ailier gauche,32,15,15.0,1.0,2.0,3.0,0.0,0.0,5.0,8.0,"1,40",910,2023/24
+Imad Khannouss,"1,79m",ambidextre,10000.0,Ailier gauche,30,6,5.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,"0,60",87,2023/24
+Montassir Lahtimi,"1,85m",gauche,600000.0,Ailier droit,22,37,36.0,1.0,6.0,2.0,0.0,0.0,9.0,23.0,"1,58",1917,2023/24
+Saifeddine Bouhra,"1,78m",droit,550000.0,Ailier droit,23,43,39.0,0.0,2.0,5.0,0.0,1.0,19.0,16.0,"1,49",2157,2023/24
+Mohamed Ounajem,"1,73m",droit,500000.0,Ailier droit,31,37,30.0,0.0,0.0,2.0,0.0,0.0,21.0,9.0,"1,50",1006,2023/24
+Hicham Boussefiane,"1,77m",droit,300000.0,Ailier droit,25,21,21.0,2.0,4.0,1.0,0.0,0.0,10.0,11.0,"1,86",1001,2023/24
+Salaheddine Benyachou,"1,68m",droit,150000.0,Ailier droit,23,1,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"0,00",21,2023/24
+Bouly Junior Sambou,"1,83m",droit,550000.0,Avant-centre,24,24,23.0,5.0,0.0,5.0,0.0,0.0,9.0,9.0,"1,65",1299,2023/24
+Charki El Bahri,-,,400000.0,Avant-centre,30,27,26.0,4.0,0.0,2.0,0.0,0.0,13.0,8.0,"1,77",1203,2023/24
+Ismail Moumen,"1,80m",droit,10000.0,Avant-centre,20,15,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"3,00",1,2023/24

@@ -1,0 +1,30 @@
+Name,Taille,Pied,market_value,Position,Age,Dans l'effectif,Matchs,Buts,Passes décisives,Cartons Jaunes,Cartons rouges/jaunes,CartonS rouges,Entré en jeu,Remplacé,PPM,Minutes jouées,Saison
+Mohamed Akid,"1,83m",droit,25000.0,Gardien de but,21,24,18.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,"2,22",1590,2014/15
+Badereddine Benaachour,"1,78m",,0.0,Gardien de but,19,26,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"1,80",900,2014/15
+Hamza Ouzal,"1,84m",,0.0,Gardien de but,20,4,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"0,67",210,2014/15
+Youssef Rabeh,"1,80m",ambidextre,375000.0,Défenseur central,29,27,25.0,0.0,0.0,5.0,0.0,0.0,0.0,1.0,"2,00",2205,2014/15
+Hicham Amrani,"1,84m",droit,300000.0,Défenseur central,28,28,28.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,"1,96",2520,2014/15
+Naïm Aarab,"1,88m",droit,250000.0,Défenseur central,26,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"1,00",90,2014/15
+Ayoub Qasmi,"1,78m",gauche,150000.0,Défenseur central,20,28,8.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,"1,88",471,2014/15
+Amine Atouchi,"1,86m",droit,100000.0,Défenseur central,22,28,17.0,2.0,0.0,2.0,0.0,0.0,7.0,2.0,"2,12",925,2014/15
+Mohamed Saidi,-,droit,75000.0,Défenseur central,19,3,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,"2,00",86,2014/15
+Yassine El Kordy,"1,78m",gauche,250000.0,Arrière gauche,28,27,26.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,"2,08",2282,2014/15
+Abdellatif Noussir,"1,83m",droit,700000.0,Arrière droit,24,29,29.0,0.0,1.0,4.0,0.0,1.0,0.0,2.0,"2,00",2559,2014/15
+Omar Sarbout,"1,77m",droit,75000.0,Arrière droit,25,9,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,"2,00",51,2014/15
+Salaheddine Saidi,"1,87m",droit,450000.0,Milieu défensif,27,24,20.0,0.0,1.0,2.0,0.0,0.0,2.0,4.0,"1,80",1574,2014/15
+Anas Al-Asbahi,"1,80m",gauche,200000.0,Milieu défensif,20,23,16.0,0.0,1.0,4.0,0.0,0.0,4.0,7.0,"2,00",952,2014/15
+Brahim Nakach,"1,73m",droit,100000.0,Milieu défensif,32,28,27.0,1.0,4.0,8.0,1.0,0.0,2.0,2.0,"1,93",2216,2014/15
+Mohamed Berrabeh,"1,78m",ambidextre,650000.0,Milieu central,28,14,14.0,1.0,0.0,2.0,0.0,0.0,0.0,3.0,"1,79",1102,2014/15
+Walid El Karti,"1,84m",droit,100000.0,Milieu central,19,24,22.0,2.0,6.0,4.0,0.0,0.0,2.0,12.0,"1,95",1493,2014/15
+Bakary Koné,"1,69m",droit,300000.0,Milieu droit,25,27,27.0,6.0,5.0,4.0,0.0,0.0,4.0,16.0,"1,93",1876,2014/15
+Kamel Chafni,"1,81m",droit,750000.0,Milieu offensif,32,6,5.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,"2,20",200,2014/15
+Bilal Assoufi,"1,76m",ambidextre,150000.0,Milieu offensif,25,9,6.0,0.0,1.0,0.0,0.0,0.0,6.0,0.0,"1,83",202,2014/15
+Rachid Housni,"1,77m",gauche,0.0,Milieu offensif,24,14,12.0,2.0,2.0,2.0,0.0,0.0,9.0,2.0,"2,17",514,2014/15
+Aymane El Hassouni,"1,87m",droit,0.0,Milieu offensif,19,1,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"3,00",8,2014/15
+Yassine Lakhal,"1,79m",gauche,450000.0,Ailier gauche,24,6,5.0,1.0,1.0,1.0,0.0,0.0,4.0,1.0,"2,20",154,2014/15
+Zouhair El Moutaraji,"1,82m",droit,0.0,Ailier gauche,18,14,9.0,1.0,0.0,0.0,0.0,0.0,7.0,2.0,"2,11",275,2014/15
+Reda Hajhouj,"1,75m",droit,0.0,Ailier droit,19,28,28.0,6.0,5.0,5.0,0.0,0.0,8.0,12.0,"1,96",1705,2014/15
+Malick Evouna,"1,80m",droit,1000000.0,Avant-centre,21,26,26.0,16.0,5.0,2.0,0.0,0.0,2.0,5.0,"1,96",2136,2014/15
+Fabrice Ondama,"1,78m",droit,550000.0,Avant-centre,26,13,13.0,2.0,2.0,1.0,0.0,0.0,7.0,6.0,"2,23",656,2014/15
+Dieylani Fall,"1,85m",droit,200000.0,Avant-centre,24,20,12.0,3.0,1.0,2.0,0.0,0.0,8.0,3.0,"1,75",497,2014/15
+Gustavo Blanco Leschuk,"1,90m",droit,100000.0,Avant-centre,22,5,5.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,"1,40",182,2014/15

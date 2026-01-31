@@ -1,0 +1,37 @@
+Name,Taille,Pied,market_value,Position,Age,Dans l'effectif,Matchs,Buts,Passes décisives,Cartons Jaunes,Cartons rouges/jaunes,CartonS rouges,Entré en jeu,Remplacé,PPM,Minutes jouées,Saison
+Ahmed Reda Tagnaouti,"1,92m",droit,1200000.0,Gardien de but,23,42,42.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,"1,83",3777,2019/20
+Aissa Sioudi,"1,88m",,125000.0,Gardien de but,21,28,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"1,00",3,2019/20
+Achraf Dari,"1,88m",droit,800000.0,Défenseur central,20,13,13.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,"2,08",1096,2019/20
+Cheick Comara,"1,84m",gauche,800000.0,Défenseur central,25,25,24.0,2.0,0.0,3.0,0.0,0.0,1.0,3.0,"1,58",1904,2019/20
+Adil Rhaili,"1,92m",gauche,400000.0,Défenseur central,28,8,5.0,0.0,0.0,1.0,0.0,0.0,4.0,0.0,"1,20",144,2019/20
+Ayoub Mouddane,"1,85m",droit,250000.0,Défenseur central,21,5,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,"3,00",14,2019/20
+Ibrahim Najm Eddine,"1,86m",,225000.0,Défenseur central,26,26,17.0,1.0,0.0,2.0,0.0,0.0,6.0,4.0,"1,88",1062,2019/20
+Hamza Asrir,"1,86m",droit,50000.0,Défenseur central,26,36,29.0,1.0,4.0,4.0,0.0,0.0,7.0,4.0,"1,86",2108,2019/20
+Mohamed Rahim,"1,80m",droit,0.0,Défenseur central,24,6,6.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,"1,83",528,2019/20
+Mohammed Nahiri,"1,86m",droit,900000.0,Arrière gauche,27,14,13.0,6.0,0.0,0.0,0.0,0.0,1.0,2.0,"2,31",1050,2019/20
+Badr Gaddarine,"1,78m",gauche,375000.0,Arrière gauche,21,39,28.0,1.0,3.0,5.0,0.0,0.0,10.0,3.0,"1,82",1705,2019/20
+Yahia Attiyat Allah,"1,76m",gauche,325000.0,Arrière gauche,24,19,17.0,0.0,3.0,3.0,0.0,0.0,3.0,4.0,"1,53",1275,2019/20
+Abdellatif Noussir,"1,83m",droit,400000.0,Arrière droit,29,28,22.0,0.0,0.0,2.0,0.0,0.0,2.0,6.0,"1,86",1680,2019/20
+Ayoub El Amloud,"1,77m",droit,325000.0,Arrière droit,25,29,25.0,0.0,4.0,3.0,0.0,0.0,6.0,3.0,"1,76",1780,2019/20
+Youssef Chaina,"1,74m",droit,300000.0,Arrière droit,26,16,10.0,0.0,0.0,2.0,0.0,0.0,3.0,2.0,"1,70",673,2019/20
+Ghassan Ajmil,-,,0.0,Arrière droit,0,4,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"3,00",7,2019/20
+Yahya Jabrane,"1,87m",droit,725000.0,Milieu défensif,28,34,34.0,9.0,0.0,7.0,2.0,0.0,1.0,1.0,"1,71",2911,2019/20
+Salaheddine Saidi,"1,87m",droit,400000.0,Milieu défensif,32,14,14.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,"1,93",1142,2019/20
+Soufiane Karkache,"1,85m",droit,350000.0,Milieu défensif,19,5,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,"2,00",52,2019/20
+Anas Al-Asbahi,"1,80m",gauche,200000.0,Milieu défensif,25,2,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"3,00",24,2019/20
+Brahim Nakach,"1,73m",droit,200000.0,Milieu défensif,37,38,27.0,0.0,0.0,2.0,1.0,0.0,2.0,9.0,"1,85",2062,2019/20
+Walid El Karti,"1,84m",droit,700000.0,Milieu central,24,39,39.0,1.0,5.0,1.0,0.0,0.0,6.0,9.0,"1,82",3037,2019/20
+Michel Babatunde,"1,79m",gauche,550000.0,Milieu offensif,26,11,11.0,4.0,1.0,3.0,0.0,0.0,7.0,3.0,"2,18",471,2019/20
+Aymane El Hassouni,"1,87m",droit,450000.0,Milieu offensif,24,36,35.0,3.0,8.0,5.0,0.0,0.0,7.0,21.0,"1,83",2294,2019/20
+Ismail El Haddad,"1,81m",gauche,800000.0,Ailier gauche,28,32,31.0,9.0,7.0,4.0,0.0,0.0,2.0,12.0,"2,00",2549,2019/20
+Zouhair El Moutaraji,"1,82m",droit,325000.0,Ailier gauche,23,31,26.0,4.0,3.0,2.0,0.0,0.0,17.0,9.0,"1,85",889,2019/20
+Badie Aouk,"1,66m",droit,600000.0,Ailier droit,24,35,35.0,7.0,8.0,3.0,0.0,0.0,3.0,15.0,"1,91",2729,2019/20
+Amin Tighazoui,"1,72m",gauche,450000.0,Ailier droit,30,23,16.0,1.0,1.0,0.0,0.0,0.0,8.0,6.0,"1,88",696,2019/20
+Mohamed Kamal,"1,79m",,200000.0,Ailier droit,23,6,2.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,"1,50",74,2019/20
+Haytham El Bahja,"1,75m",gauche,50000.0,Ailier droit,25,24,9.0,0.0,1.0,3.0,0.0,0.0,8.0,1.0,"2,00",184,2019/20
+Ayoub El Kaabi,"1,82m",gauche,1200000.0,Avant-centre,26,13,13.0,8.0,3.0,0.0,0.0,0.0,1.0,3.0,"2,08",1071,2019/20
+Gabriel Okechukwu,"1,88m",gauche,150000.0,Avant-centre,23,10,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,"0,67",32,2019/20
+Mohammed Saidani,"1,76m",droit,50000.0,Attaquant,20,14,6.0,0.0,0.0,1.0,0.0,0.0,5.0,1.0,"2,50",102,2019/20
+Gbagbo Junior Magbi,"1,77m",droit,25000.0,Avant-centre,25,16,12.0,3.0,1.0,0.0,0.0,0.0,9.0,3.0,"1,25",418,2019/20
+Joel Madondo,-,,0.0,Avant-centre,21,2,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,"0,00",71,2019/20
+Kazadi Kasengu,"1,74m",droit,0.0,Avant-centre,26,26,24.0,10.0,5.0,0.0,0.0,0.0,3.0,3.0,"1,58",1923,2019/20

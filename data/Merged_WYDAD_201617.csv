@@ -1,0 +1,35 @@
+Name,Taille,Pied,market_value,Position,Age,Dans l'effectif,Matchs,Buts,Passes décisives,Cartons Jaunes,Cartons rouges/jaunes,CartonS rouges,Entré en jeu,Remplacé,PPM,Minutes jouées,Saison
+Zouheir Laaroubi,-,droit,150000.0,Gardien de but,31,34,30.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,"2,37",2730,2016/17
+Ahmed Reda Tagnaouti,"1,92m",droit,0.0,Gardien de but,20,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"0,00",90,2016/17
+Badereddine Benaachour,"1,78m",,0.0,Gardien de but,21,34,13.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,"1,85",1170,2016/17
+Mourtada Fall,"1,92m",ambidextre,750000.0,Défenseur central,28,18,14.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,"2,21",1148,2016/17
+Youssef Rabeh,"1,80m",ambidextre,375000.0,Défenseur central,31,36,34.0,1.0,0.0,3.0,0.0,0.0,1.0,0.0,"2,29",3001,2016/17
+Amine Atouchi,"1,86m",droit,100000.0,Défenseur central,24,40,39.0,3.0,1.0,2.0,1.0,0.0,3.0,1.0,"2,18",3259,2016/17
+Naïm Aarab,"1,88m",droit,0.0,Défenseur central,28,13,4.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,"2,25",360,2016/17
+Mohamed Ouattara,"1,85m",gauche,0.0,Défenseur central,23,6,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"2,00",91,2016/17
+Anass Lamrabat,-,gauche,300000.0,Arrière gauche,22,29,24.0,0.0,0.0,6.0,0.0,0.0,0.0,3.0,"2,04",2082,2016/17
+Fahd Aktaou,"1,84m",gauche,275000.0,Arrière gauche,23,9,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"3,00",177,2016/17
+Yassine El Kordy,"1,78m",gauche,250000.0,Arrière gauche,30,2,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,"2,00",160,2016/17
+Badr Gaddarine,"1,78m",gauche,0.0,Arrière gauche,18,22,20.0,0.0,2.0,4.0,0.0,0.0,3.0,3.0,"2,25",1585,2016/17
+Abdellatif Noussir,"1,83m",droit,700000.0,Arrière droit,26,38,38.0,0.0,6.0,5.0,0.0,0.0,0.0,1.0,"2,18",3388,2016/17
+Zakaria El Hachimi,"1,72m",ambidextre,600000.0,Arrière droit,28,6,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,"3,00",20,2016/17
+Younes Bellakhdar,-,droit,450000.0,Arrière droit,29,13,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"2,25",360,2016/17
+Salaheddine Saidi,"1,87m",droit,450000.0,Milieu défensif,29,32,31.0,6.0,1.0,1.0,0.0,0.0,2.0,2.0,"2,00",2628,2016/17
+Jamel Aït Ben Idir,"1,74m",droit,250000.0,Milieu défensif,32,28,21.0,0.0,0.0,1.0,0.0,0.0,9.0,4.0,"2,43",1118,2016/17
+Anas Al-Asbahi,"1,80m",gauche,200000.0,Milieu défensif,22,21,13.0,1.0,0.0,2.0,0.0,0.0,6.0,6.0,"2,62",566,2016/17
+Brahim Nakach,"1,73m",droit,100000.0,Milieu défensif,34,40,40.0,0.0,0.0,9.0,0.0,0.0,6.0,3.0,"2,20",3090,2016/17
+Walid El Karti,"1,84m",droit,100000.0,Milieu central,21,36,36.0,3.0,3.0,0.0,0.0,0.0,11.0,9.0,"2,25",2319,2016/17
+Mouhcine Mouhtadi,-,,0.0,Milieu central,20,1,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"1,00",2,2016/17
+Mehdi Karnass,"1,81m",ambidextre,200000.0,Milieu droit,26,4,4.0,1.0,0.0,2.0,0.0,0.0,3.0,0.0,"1,25",185,2016/17
+Mohamed Aoulad,"1,83m",,400000.0,Milieu offensif,24,6,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"3,00",5,2016/17
+Aymane El Hassouni,"1,87m",droit,0.0,Milieu offensif,21,7,6.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,"1,67",224,2016/17
+Ismail El Haddad,"1,81m",gauche,500000.0,Ailier gauche,25,22,22.0,2.0,3.0,2.0,0.0,0.0,6.0,17.0,"2,36",1240,2016/17
+Hamza Elowasti,"1,86m",droit,0.0,Ailier gauche,21,2,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"1,50",149,2016/17
+Achraf Bencharki,"1,76m",droit,0.0,Ailier gauche,21,38,37.0,9.0,9.0,3.0,0.0,0.0,5.0,17.0,"2,24",2890,2016/17
+Abdeladim Khadrouf,"1,83m",ambidextre,300000.0,Ailier droit,31,35,32.0,3.0,2.0,2.0,0.0,0.0,17.0,9.0,"2,19",1577,2016/17
+Reda Hajhouj,"1,75m",droit,0.0,Ailier droit,21,6,6.0,0.0,2.0,0.0,0.0,0.0,4.0,2.0,"2,33",170,2016/17
+Mohamed Ounajem,"1,73m",droit,0.0,Ailier droit,24,40,40.0,3.0,15.0,4.0,0.0,0.0,9.0,14.0,"2,08",2839,2016/17
+Fabrice Ondama,"1,78m",droit,550000.0,Avant-centre,28,34,29.0,9.0,4.0,2.0,0.0,0.0,9.0,9.0,"2,03",1844,2016/17
+William Jebor,"1,83m",droit,300000.0,Avant-centre,24,32,32.0,21.0,2.0,2.0,0.0,0.0,1.0,3.0,"2,16",2752,2016/17
+Guillaume Daho,"1,73m",droit,0.0,Avant-centre,21,6,4.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,"1,25",245,2016/17
+Chisom Elvis Chikatara,"1,83m",droit,0.0,Avant-centre,21,12,9.0,0.0,1.0,0.0,0.0,0.0,6.0,2.0,"1,56",311,2016/17

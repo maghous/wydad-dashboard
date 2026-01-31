@@ -1,0 +1,33 @@
+Name,Taille,Pied,market_value,Position,Age,Dans l'effectif,Matchs,Buts,Passes décisives,Cartons Jaunes,Cartons rouges/jaunes,CartonS rouges,Entré en jeu,Remplacé,PPM,Minutes jouées,Saison
+Ahmed Reda Tagnaouti,"1,92m",droit,1200000.0,Gardien de but,24,40,40.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,"2,25",3552,2020/21
+Aissa Sioudi,"1,88m",,125000.0,Gardien de but,22,40,6.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,"1,17",489,2020/21
+Yanis Hénin,"1,86m",droit,25000.0,Gardien de but,21,11,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,"3,00",129,2020/21
+Achraf Dari,"1,88m",droit,800000.0,Défenseur central,21,41,40.0,3.0,0.0,3.0,0.0,1.0,0.0,2.0,"2,18",3563,2020/21
+Cheick Comara,"1,84m",gauche,600000.0,Défenseur central,26,21,15.0,0.0,2.0,1.0,0.0,0.0,9.0,1.0,"2,40",602,2020/21
+Amine Aboulfath,"1,83m",droit,500000.0,Défenseur central,22,41,39.0,0.0,0.0,9.0,0.0,0.0,1.0,1.0,"2,26",3462,2020/21
+Mohamed Rahim,"1,80m",droit,250000.0,Défenseur central,25,37,20.0,0.0,1.0,3.0,0.0,0.0,7.0,1.0,"2,35",1136,2020/21
+Hamza Asrir,"1,86m",droit,150000.0,Défenseur central,27,11,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"0,00",45,2020/21
+Amine Farhane,"1,89m",droit,25000.0,Défenseur central,22,15,7.0,0.0,0.0,2.0,0.0,1.0,3.0,0.0,"1,86",365,2020/21
+Yahia Attiyat Allah,"1,76m",gauche,475000.0,Arrière gauche,25,41,40.0,2.0,5.0,6.0,0.0,0.0,0.0,3.0,"2,13",3583,2020/21
+Badr Gaddarine,"1,78m",gauche,300000.0,Arrière gauche,22,28,13.0,0.0,0.0,1.0,0.0,0.0,7.0,1.0,"2,15",542,2020/21
+Ayoub El Amloud,"1,77m",droit,500000.0,Arrière droit,26,33,30.0,5.0,5.0,2.0,0.0,0.0,1.0,4.0,"2,07",2639,2020/21
+Zakaria Kiani,"1,70m",droit,150000.0,Arrière droit,23,9,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"0,00",65,2020/21
+Hamza Ait Allal,"1,84m",droit,125000.0,Arrière droit,20,35,17.0,0.0,2.0,3.0,0.0,0.0,5.0,3.0,"2,29",1077,2020/21
+Yahya Jabrane,"1,87m",droit,800000.0,Milieu défensif,29,40,39.0,4.0,3.0,6.0,0.0,0.0,3.0,4.0,"2,18",3303,2020/21
+Salaheddine Saidi,"1,87m",droit,350000.0,Milieu défensif,33,37,29.0,2.0,1.0,2.0,0.0,0.0,11.0,11.0,"2,31",1663,2020/21
+Anas Serrhat,"1,78m",,200000.0,Milieu défensif,23,32,12.0,0.0,1.0,0.0,0.0,0.0,6.0,2.0,"2,25",534,2020/21
+Soufiane Karkache,"1,85m",droit,150000.0,Milieu défensif,20,10,3.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,"2,00",106,2020/21
+Walid El Karti,"1,84m",droit,675000.0,Milieu central,25,43,43.0,7.0,7.0,1.0,0.0,0.0,2.0,16.0,"2,19",3568,2020/21
+Ayoub Skouma,"1,73m",droit,225000.0,Milieu central,33,7,5.0,0.0,1.0,0.0,0.0,0.0,5.0,0.0,"2,60",75,2020/21
+Abdellah Haimoud,"1,72m",droit,0.0,Milieu central,19,22,13.0,0.0,1.0,0.0,0.0,0.0,11.0,1.0,"1,85",272,2020/21
+Aymane El Hassouni,"1,87m",droit,375000.0,Milieu offensif,25,34,33.0,3.0,3.0,3.0,0.0,0.0,7.0,20.0,"2,18",2232,2020/21
+Michel Babatunde,"1,79m",gauche,300000.0,Milieu offensif,27,11,6.0,0.0,1.0,0.0,0.0,0.0,5.0,1.0,"1,50",101,2020/21
+Sofian El Moudane,"1,78m",droit,250000.0,Milieu offensif,26,16,12.0,0.0,0.0,2.0,0.0,0.0,8.0,4.0,"2,17",452,2020/21
+Zouhair El Moutaraji,"1,82m",droit,275000.0,Ailier gauche,24,33,24.0,5.0,1.0,1.0,0.0,0.0,12.0,11.0,"2,04",1047,2020/21
+Mohamed El Ouardi,"1,72m",droit,0.0,Ailier gauche,19,4,4.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,"1,75",22,2020/21
+Mohamed Ounajem,"1,73m",droit,1100000.0,Ailier droit,28,33,33.0,4.0,14.0,3.0,0.0,0.0,9.0,20.0,"2,18",2191,2020/21
+Badie Aouk,"1,66m",droit,500000.0,Ailier droit,25,34,22.0,0.0,1.0,1.0,0.0,1.0,12.0,9.0,"1,82",695,2020/21
+Mounsef Chrachem,"1,77m",droit,25000.0,Ailier droit,21,7,3.0,1.0,0.0,0.0,0.0,0.0,2.0,1.0,"1,00",144,2020/21
+Bilal Ziani Guennon,"1,75m",gauche,25000.0,Ailier droit,20,2,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,"0,00",6,2020/21
+Ayoub El Kaabi,"1,82m",gauche,1200000.0,Avant-centre,27,43,43.0,26.0,5.0,0.0,0.0,0.0,0.0,6.0,"2,12",3870,2020/21
+Simon Msuva,"1,75m",droit,650000.0,Avant-centre,26,41,40.0,10.0,3.0,0.0,0.0,1.0,20.0,18.0,"2,10",1915,2020/21
